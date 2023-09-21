@@ -1,8 +1,6 @@
 <div align="center">
 	<h1 align="center"><b>Landing Page con React, Svelte y Vue</b></h1>
-	<p align="center">
-	    <a href="https://rtlsalazar.github.io/responsive-landing-page-Fylo/site/">URL del sitio en vivo</a>
-	</p>
+
 </div>
 
 Este es un proyecto de ejemplo de una landing page elaborada en tres frameworks diferentes: React, Svelte y Vue. El objetivo es mostrar cómo se puede lograr el mismo resultado con distintas herramientas.
