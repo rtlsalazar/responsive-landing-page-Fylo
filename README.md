@@ -1,30 +1,31 @@
-### README en espanol: [README-ES.md](./README-ES.md)
+### english README: [README-EN.md](./README-EN.md)
 <div align="center">
-	<h1 align="center"><b>Landing Page with React, Svelte and Vue</b></h1>
+	<h1 align="center"><b>Landing Page con React, Svelte y Vue</b></h1>
 </div>
-This is an example project of a landing page made in three different frameworks: React, Svelte and Vue. The goal is to show how to achieve the same result with different tools.
 
-The landing page is fully responsive, it can be seen perfectly on every type and size of screen, from a PC monitor to a cell phone. It also has a modern and attractive design, with smooth animations and transitions.
+Este es un proyecto de ejemplo de una landing page elaborada en tres frameworks diferentes: React, Svelte y Vue. El objetivo es mostrar cómo se puede lograr el mismo resultado con distintas herramientas.
 
-## Demonstration
-You can see the landing page in action in this link: 
-[Live site URL](https://rtlsalazar.github.io/responsive-landing-page-Fylo/site/)
+La landing page es totalmente responsiva, puede verse perfectamente en cada tipo y tamaño de pantalla, sea desde un monitor de PC hasta un teléfono celular. Además, tiene un diseño moderno y atractivo, con animaciones y transiciones suaves.
+## Demostración
+Puedes ver la landing page en acción en este enlace:
+[URL del sitio en vivo](https://rtlsalazar.github.io/responsive-landing-page-Fylo/site/)
 
-You can also see some screenshots of how the landing page looks:
+También puedes ver algunas capturas de pantalla de cómo se ve la landing page:
 
 | Desktop | Mobile | 
 | - | - |
 | ![Desktop Preview](./Screenshot_desktop.webp) |![Mobile Preview](./Screenshot_mobile.webp) |
 
 
-## Installation and use
+## Instalación y uso
 
-To clone, install and run this project locally, you need to have [Git], [Node.js] and [npm] installed on your computer.
+Para clonar, instalar y ejecutar este proyecto localmente, necesitas tener instalado [Git], [Node.js] y [npm] en tu computadora.
 
-Then, follow these steps:
-1. Open a terminal and clone this repository with the command `git clone https://github.com/rtlsalazar/responsive-landing-page-Fylo.git`.
-2. Enter the project directory with the command `cd responsive-landing-page-Fylo`.
-3. Choose the framework you want to use (React, Svelte or Vue) and enter the corresponding subdirectory with the command `cd src-react`, `cd src-svelte` or `cd src-vue`.
-4. Install the necessary dependencies with the command `npm install`.
-5. Run the project in development mode with the command `npm run dev`.
-6. Open your browser and visit the address `http://localhost:80` to see the landing page.
+Luego, sigue estos pasos:
+
+1. Abre una terminal y clona este repositorio con el comando `git clone https://github.com/rtlsalazar/responsive-landing-page-Fylo.git`.
+2. Entra al directorio del proyecto con el comando `cd responsive-landing-page-Fylo`.
+3. Elige el framework que quieras usar (React, Svelte o Vue) y entra al subdirectorio correspondiente con el comando `cd src-react`, `cd src-svelte` o `cd src-vue`.
+4. Instala las dependencias necesarias con el comando `npm install`.
+5. Ejecuta el proyecto en modo desarrollo con el comando `npm run dev`.
+6. Abre tu navegador y visita la dirección `http://localhost:80` para ver la landing page.
