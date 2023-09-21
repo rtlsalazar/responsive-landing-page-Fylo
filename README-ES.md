@@ -5,7 +5,7 @@ La landing page es totalmente responsiva, puede verse perfectamente en cada tipo
 
 ## Demostración
 Puedes ver la landing page en acción en este enlace:
-[URL del sitio en vivo](https://rtlsalazar.github.io/responsive-preview-component/site/index.html)
+[URL del sitio en vivo](https://rtlsalazar.github.io/responsive-preview-component/site/)
 
 También puedes ver algunas capturas de pantalla de cómo se ve la landing page:
 
