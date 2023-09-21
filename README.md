@@ -1,3 +1,4 @@
+> README en espanol: [README-ES.md](./README-ES.md)
 # Landing Page with React, Svelte and Vue
 This is an example project of a landing page made in three different frameworks: React, Svelte and Vue. The goal is to show how to achieve the same result with different tools.
 
