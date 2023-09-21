@@ -6,7 +6,7 @@ The landing page is fully responsive, it can be seen perfectly on every type and
 
 ## Demonstration
 You can see the landing page in action in this link: 
-[Live site URL](https://rtlsalazar.github.io/responsive-preview-component/site/)
+[Live site URL](https://rtlsalazar.github.io/responsive-landing-page-Fylo/site/)
 
 You can also see some screenshots of how the landing page looks:
 
