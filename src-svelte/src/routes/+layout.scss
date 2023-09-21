@@ -1,0 +1,53 @@
+@import 'src/styles/_reset.scss';
+@import 'src/styles/_variables.scss';
+
+/* ---------------------------------------------------------------------------------------------- */
+/*  Global Fonts */
+/* ---------------------------------------------------------------------------------------------- */
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/Raleway/Raleway-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('/fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf');
+  font-weight: normal;
+}
+
+/* ---------------------------------------------------------------------------------------------- */
+/*  Colors */
+/* ---------------------------------------------------------------------------------------------- */
+/* Colors */
+$color-primary: #0CC;
+
+/* ---------------------------------------------------------------------------------------------- */
+/* Typography */
+/* ---------------------------------------------------------------------------------------------- */
+/* Text Style */
+$text-font: Raleway, sans-serif;
+$text-color-base: hsl(0, 0%, 0%);
+$text-color-muted: hsl(0, 0%, 0%);
+
+/* ---------------------------------------------------------------------------------------------- */
+/*  Global Configurations */
+/* ---------------------------------------------------------------------------------------------- */
+
+/* Smartphones */
+@media only screen and (max-width: 816px) { // 480px
+  :root {
+    font-size: clamp(13px, 4vw, 16px); 
+  }
+}
+
+/* Desktop */
+@media only screen and (min-width: 816px) {
+  :root {
+    font-size: clamp(13px, 1.1vw, 16px); 
+  }
+}
+
+:root{
+  scroll-behavior: smooth;
+  font-family: Open Sans, Montserrat, sans-serif;
+}
