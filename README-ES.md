@@ -1,5 +1,5 @@
 <div align="center">
-	<h3 align="center"><b>Landing Page con React, Svelte y Vue</b></h3>
+	<h1 align="center"><b>Landing Page con React, Svelte y Vue</b></h1>
 	<p align="center">
 	    <a href="https://rtlsalazar.github.io/responsive-landing-page-Fylo/site/">URL del sitio en vivo</a>
 	</p>
