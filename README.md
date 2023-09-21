@@ -1,5 +1,7 @@
 ### README en espanol: [README-ES.md](./README-ES.md)
-# Landing Page with React, Svelte and Vue
+<div align="center">
+	<h1 align="center"><b>Landing Page with React, Svelte and Vue</b></h1>
+</div>
 This is an example project of a landing page made in three different frameworks: React, Svelte and Vue. The goal is to show how to achieve the same result with different tools.
 
 The landing page is fully responsive, it can be seen perfectly on every type and size of screen, from a PC monitor to a cell phone. It also has a modern and attractive design, with smooth animations and transitions.
