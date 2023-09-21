@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/site",
+    "build": "vite build --base=/responsive-landing-page-Fylo/site",
     "preview": "vite preview"
   },
   "dependencies": {
