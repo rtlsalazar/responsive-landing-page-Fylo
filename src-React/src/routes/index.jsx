@@ -2,7 +2,7 @@ import React from "react";
 import { createBrowserRouter } from "react-router-dom";
 
 // Pagina principal
-const Main = React.lazy(() => import("@/pages/Main"));
+const Home = React.lazy(() => import("@/pages/Home"));
 
 // Paginas de errores genericos
 const Error404 = React.lazy(() => import("@/pages/utils/Error404"));
@@ -10,7 +10,7 @@ const Error404 = React.lazy(() => import("@/pages/utils/Error404"));
 const routes = [
   {
     path: "/",
-    element: <Main />,
+    element: <Home />,
   },
   {
     path: "/404",
